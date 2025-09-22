@@ -1,0 +1,16 @@
+{
+
+    "feedback_title" : " Retours sur le serveur",
+    "webhook" : "**Retours** : %s\n \n **Auteur** : %s *(%s)*\n \n-# Le contenu de ce message n'est pas affilié à Stevo Scripts",
+    "feedback_confirmation" : "Retours reçu",
+    "feedback_cooldown" : "Vous avez envoyé un commentaire trop récemment",
+
+    "input" : {
+        "title" : "Titre",
+        "title_description" : " Bref résumé du retours (par exemple, système pénitentiaire)",
+        "feedback" : "Retours",
+        "feedback_description" : "Résumé détaillé du retour",
+        "category" : "Catégorie du retour",
+        "checkbox" : "Promettez-vous que c'est sérieux ? *-*"
+    }
+}
